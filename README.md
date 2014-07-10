@@ -1,4 +1,2 @@
-ppp
+PHP Parser for PHP
 ===
-
-Parser for PHP implemented by PHP
